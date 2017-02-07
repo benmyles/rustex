@@ -1,0 +1,6 @@
+[package]
+name = "fractions"
+version = "0.1.0"
+authors = ["Ben Myles <me@benmyles.com>"]
+
+[dependencies]
