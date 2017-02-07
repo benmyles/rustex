@@ -2,6 +2,11 @@
 
 Exercises to learn the Rust programming language.
 
+## Getting Started
+
+Prerequisite: Simply visit https://www.rustup.rs/
+and follow the instructions to install Rust.
+
 For each exercise, the goal is to ensure that both
 `cargo run` and `cargo test` execute without error:
 
@@ -22,3 +27,8 @@ test test_hello ... ok
 
 test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured
 ```
+
+## Learning Materials
+
+- http://rust-lang.github.io/book/
+- http://rustbyexample.com/
