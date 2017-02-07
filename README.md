@@ -11,16 +11,16 @@ For each exercise, the goal is to ensure that both
 `cargo run` and `cargo test` execute without error:
 
 ```sh
-[0001_hello]$ cargo run
-   Compiling 0001_hello v0.1.0 (file:///home/ben/Projects/rustex/0001_hello)
+[hello]$ cargo run
+   Compiling hello v0.1.0 (file:///home/ben/Projects/rustex/00001/hello)
     Finished debug [unoptimized + debuginfo] target(s) in 0.29 secs
-     Running `target/debug/0001_hello`
+     Running `target/debug/hello`
 Hello Samwise
 Hello Marvin
-[0001_hello]$ cargo test
-   Compiling 0001_hello v0.1.0 (file:///home/ben/Projects/rustex/0001_hello)
+[hello]$ cargo test
+   Compiling hello v0.1.0 (file:///home/ben/Projects/rustex/00001/hello)
     Finished debug [unoptimized + debuginfo] target(s) in 0.33 secs
-     Running target/debug/deps/0001_hello-72158781518ace74
+     Running target/debug/deps/hello-72158781518ace74
 
 running 1 test
 test test_hello ... ok
